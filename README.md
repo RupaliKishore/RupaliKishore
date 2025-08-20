@@ -98,7 +98,7 @@
 
 ## 📫 Connect With Me  
 📧 **Email:** [rupalikishore3011@gmail.com](mailto:rupalikishore3011@gmail.com)  
-🔗 [LinkedIn](https://www.instagram.com/rupali_kishore) | [GitHub](https://github.com/RupaliKishore) | [LeetCode](https://leetcode.com/u/RKishore3/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/rupali-tompe-74567133b/) | [GitHub](https://github.com/RupaliKishore) | [LeetCode](https://leetcode.com/u/RKishore3/)  
 
 ---
 
