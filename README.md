@@ -1,7 +1,9 @@
 # Hi there 👋, I'm Rupali Kishore 🚀
 
-💡 **Passionate about Web Development & Innovative Tech**  
-💻 *Turning ideas into interactive experiences* ✨  
+
+👩‍💻 Aspiring Software Developer | 🚀 Passionate about Java, Python, React, Cloud & DSA
+🌱 Eager to learn, build, and grow through real-world projects and problem-solving
+💡 Love turning ideas into impactful solutions with clean, scalable code
 
 ---
 
